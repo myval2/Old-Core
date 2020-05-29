@@ -1,0 +1,11 @@
+name: LobbyCore
+main: Myval\Main
+api: 
+- 3.9.0
+- 3.0.0
+version: 1.4
+author: myval2
+description: LobbyCore for Saydlik.
+commands: 
+           hub:
+              description: Teleport to hub                      
